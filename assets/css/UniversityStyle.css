@@ -1,0 +1,37 @@
+.Image-Size{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    border-radius: 10%;
+}
+
+.bgcolor{
+    background-color: black;
+}
+
+.text-Size{
+    font-size: small;
+    color: #C5C5C5;
+    
+}
+.head-text{
+    padding-bottom: 15px;
+    font-size: large;
+    font-weight: 500;
+    color: #ffffff;
+}
+.uni-text{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: large;
+    font-weight: 500;
+    color: #ffffff;
+}
+.hrcolor{
+    color: #ffffff;
+    opacity: 0.3;
+}
+.main-text{
+    color: #ffffff;
+    opacity: 0.8;
+}

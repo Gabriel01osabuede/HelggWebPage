@@ -1,0 +1,58 @@
+.imgSize {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    border-radius: 30px;
+}
+
+#paddingTop {
+    padding-top: 20px;
+}
+
+#paddingTopsAreaStats{
+    padding-top: 10px;
+}
+.TextPadding{
+    padding-bottom: 10px;
+    text-align: center;
+}
+#mainTextPadding{
+    padding-top: 15px;
+    font-size: 14px;
+    color: #C5C5C5;
+}
+.headTextPad {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.headingPad {
+    padding-top: 15px;
+}
+select.selectStyle {
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    padding-left: 15px;
+    background-color: transparent;
+    color: #ffffff;
+}
+.textposition {
+    text-align: end;
+}
+.background{
+    background-image: url("..\\images\\EstateBg.png");
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+}
+.position{
+    text-align: center;
+}
+select:invalid{
+    color: gray;
+}
+option{
+    color: black;
+}

@@ -1,0 +1,123 @@
+#grey{
+   background-color:#1A1A1A;
+}
+
+input#search {
+    background-image: url("..\\images\\search.png");
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+#FAQ{
+    font-weight: bold;
+    color: #ffffff;
+    opacity: 0.9;
+}
+
+#xSiz {
+    width: 15%;
+    padding-top: 6px;
+}
+#Padding{
+    padding-top: 15px;
+}
+.align{
+    text-align: end;
+}
+
+#transparent
+{
+    background-color: transparent;
+}
+img.imgWidth {
+    width: 35%;
+}
+p.scooterImage {
+    text-align: center;
+    padding-bottom: 35px;
+}
+.HeadText {
+    font-weight: bold;
+    font-size: 30px;
+}
+p.ParText {
+    text-align: left;
+    font: normal normal normal 16px/28px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+.phonewidth{
+    width: 20%;
+}
+img.phoneSiz {
+    width: 80%;
+}
+.HeadFormText{
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 25px;
+    opacity: 0.9;
+    padding-top: 20px;
+}
+.bgcolor {
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+p.formText {
+    color: #ffffff;
+    font-size: 10px;
+    opacity: 0.8;
+}
+
+
+textarea.form-control {
+    min-height: calc(1.5em + (.75rem + 2px));
+    background-color: transparent;
+    font-size: 12px;
+}
+
+
+#formPadding{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+input#revamEmail {
+    background-color: transparent;
+    padding-bottom: 10px;
+    font-size: 12px;
+    border-radius: 30px;
+}
+
+.padbottom{
+    padding-bottom: 10px;
+}
+.buttonposition{
+    text-align: end;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+button.Submitbutton {
+    width: 160px;
+    height: 40px;
+    background: transparent;
+    color: #ffffff;
+    font-weight: bold;
+    border-color: #2DF2C3;
+    border-radius: 15px;
+    border-width: 1px;
+}
+
+div#padings {
+    padding-top: 10%;
+}
+
+#FaqPad{
+    padding-top: 5%;
+}
+.pad-down {
+    padding-top: 8%;
+}

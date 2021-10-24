@@ -1,0 +1,87 @@
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    width: 30%;
+    font-weight: 100;
+    border-radius: .50rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+#topPadding{
+    padding-top: 5%;
+}
+.errortext{
+    text-align: start;
+    padding-top: 50px;
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+}
+.ImageSize{
+    height: 70px;
+}
+.centered{
+    padding-top: 35px;
+    text-align: start;
+}
+
+.BoldText{
+    font-size: 80px;
+    font-weight: 300;
+    opacity: 0.8;
+    padding-bottom: 5%;
+    align-items: center;
+}
+
+button#paddings {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 6%;
+    padding-right: 6%;
+    border-radius: 10px;
+}
+
+.padSpace{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.secondary {
+    color: #fff;
+    background-color: #0f1417b8;
+    border: 0ch;
+
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #494f55;
+    border-color: #565e64;
+}
+
+.posi{
+    width: 70%;
+    height: auto;
+    text-align: end;
+    position: relative;
+}
+.bgImageright{
+    margin-left: 0%;
+    text-align: right;
+    opacity: 0.1;
+    position: absolute;
+}
+#pads{
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
